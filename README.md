@@ -9,4 +9,4 @@ Resources , Notes , Videos of Operating System
 
 - PDF(of notes): https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view?usp=sharing
 
--Top Interview questions : https://www.interviewbit.com/operating-system-interview-questions/
+- Top Interview questions : https://www.interviewbit.com/operating-system-interview-questions/
